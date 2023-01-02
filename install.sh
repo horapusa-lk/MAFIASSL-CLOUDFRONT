@@ -306,7 +306,7 @@ echo -e "${ENDCOLOR}"
 
 clear
 
-wget https://raw.githubusercontent.com/IAmDevilMafia/MAFIASSL-CLOUDFRONT/main/mafia.sh
+wget https://github.com/IAmDevilMafia/MAFIASSL-CLOUDFRONT/raw/main/mafia.sh
 
 chmod 777 mafia.sh
 ./mafia.sh
